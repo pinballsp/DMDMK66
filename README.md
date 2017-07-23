@@ -2,6 +2,8 @@
 
 DMDMK66 is a Multicolor DMD display for real and virtual pinball, with advanced color options. This is a product FULL developed and manufactured by www.pinballsp.com (hardware and firmware). No third party dependencies, do not need pay key licenses, do not need wait for any firmware activation, connect product and work immediately.
 
+All DMDMK66 firmware is based on Crypto Nix algorithms, developed and patented by Pinballsp.
+
 All DMDMK66 are 12V DC ready, so do not need external AC High Voltage power supply, connect directly to 12V DC, some like the 192x64 100% Plug and Play.
 
 Current versions available, 128x32 and 192x64. Under development 128x16
