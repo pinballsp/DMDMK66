@@ -4,6 +4,7 @@ DMDMK66 is a Multicolor DMD display for real and virtual pinball, with advanced 
 Current versions available, 128x32 and 192x64. Under development 128x16
 More information, pictures, full features and orders in http://www.pinballsp.com
 
+
 Current version V1.04, systems supported.
 
 All real pinball Bally/Williams (WPC, WPC95, WPC-S, WPC-DCS)
