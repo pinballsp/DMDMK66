@@ -30,5 +30,5 @@ Virtual pinmame and similar<br>
 
 Next features to add in future firmware versions:
 
-1.- Full advanced color frame by frame (Key Frame).
+1.- Full advanced color frame by frame (Key Frame).<br>
 2.- Wireless WIFI support.
