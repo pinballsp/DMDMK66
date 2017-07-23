@@ -9,17 +9,17 @@ More information, pictures, full features and orders in http://www.pinballsp.com
 Current version V1.04, systems supported.
 
 All real pinball Bally/Williams (WPC, WPC95, WPC-S, WPC-DCS)<br>
-All real pinball Data East
-All real pinball Stern/Sega WhiteStar
-All real pinball Stern SAM
-All real pinball Capcom
-All real pinball Stern Spike
-All real pinball Spinball (Jollie Park and similar)
-SEGA 192x64 (Maverick, Batman, Baywatch, Frankenstein)
+All real pinball Data East<br>
+All real pinball Stern/Sega WhiteStar<br>
+All real pinball Stern SAM<br>
+All real pinball Capcom<br>
+All real pinball Stern Spike<br>
+All real pinball Spinball (Jollie Park and similar)<br>
+SEGA 192x64 (Maverick, Batman, Baywatch, Frankenstein)<br>
 
 Working to add soon:
 
-Gottlieb
-Spooky
-Alvin
-Virtual pinmame and similar
+Gottlieb<br>
+Spooky<br>
+Alvin<br>
+Virtual pinmame and similar<br>
