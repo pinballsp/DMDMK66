@@ -7,6 +7,7 @@ More information, pictures, full features and orders in http://www.pinballsp.com
 Current version V1.04, systems supported.
 
 All real pinball Bally/Williams (WPC, WPC95, WPC-S, WPC-DCS)
+
 All real pinball Data East
 All real pinball Stern/Sega WhiteStar
 All real pinball Stern SAM
