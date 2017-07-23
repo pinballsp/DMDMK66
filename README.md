@@ -18,8 +18,8 @@ All real pinball Stern/Sega WhiteStar<br>
 All real pinball Stern SAM<br>
 All real pinball Capcom<br>
 All real pinball Stern Spike<br>
-All real pinball Spinball (Jollie Park and similar)<br>
-SEGA 192x64 (Maverick, Batman, Baywatch, Frankenstein)<br>
+All real pinball Spinball (Jollye Park and similar)<br>
+All SEGA 192x64 real pinball (Maverick, Batman, Baywatch, Frankenstein)<br>
 
 Working to add soon:
 
