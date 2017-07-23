@@ -8,7 +8,7 @@ Current versions available, 128x32 and 192x64. Under development 128x16.
 More information, pictures, full features and orders in http://www.pinballsp.com
 Contact and orders by email pinballsp@gmail.com, Whatsapp +34 693344445, Skype pinballsp, Facebook messenger https://www.facebook.com/Pinballsp 
 
-
+Hardware and firmware developer, Luis Hernández Salvador (pinballsp@gmail.com)
 
 Current version V1.04, systems supported.
 
