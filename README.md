@@ -34,5 +34,6 @@ Hardware and firmware developer, Luis Hernández Salvador (pinballsp@gmail.com)
 <b>Next features to add in future firmware versions:</b>
 <ul>
 <li>Full advanced color frame by frame (Key Frame).</li>
+<li>Advanced Magic Color Editor (to colorize games, frame by frame)<(li>
 <li>Wireless WIFI support.</li>
 </ul>
