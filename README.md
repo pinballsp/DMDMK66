@@ -26,6 +26,7 @@ Working to add soon:
 Gottlieb<br>
 Spooky<br>
 Alvin<br>
+All 128x16 real pinball (Checkpoint, Teenage Mutant Ninja Turtles, Batman, Star Trek, Hook)<br>
 Virtual pinmame and similar<br>
 
 Next features to add in future firmware versions:
