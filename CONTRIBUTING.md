@@ -5,6 +5,7 @@ Any suggestion will be appreciated.
 <li>Add new features, pinball manufacturers, virtual pinball, etc...</li>
 <li>Warn about some bug to amend it</li>
 <li>Support to work like a betatester</li>
+<li>Upload your pictures or videos about your installation or product working</li>
 </ul>
 
 Thank you everybody for support.
