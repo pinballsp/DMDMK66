@@ -22,15 +22,17 @@ Hardware and firmware developer, Luis Hernández Salvador (pinballsp@gmail.com)
 <li>All SEGA 192x64 real pinball (Maverick, Batman, Baywatch, Frankenstein)</li>
 </ul>
 
-Working to add soon:
+<b>Working to add soon:</b>
+<ul>
+<li>Gottlieb</li>
+<li>Spooky</li>
+<li>Alvin</li>
+<li>All 128x16 real pinball (Checkpoint, Teenage Mutant Ninja Turtles, Batman, Star Trek, Hook)</li>
+<li>Virtual pinmame and similar</li>
+</ul>
 
-Gottlieb<br>
-Spooky<br>
-Alvin<br>
-All 128x16 real pinball (Checkpoint, Teenage Mutant Ninja Turtles, Batman, Star Trek, Hook)<br>
-Virtual pinmame and similar<br>
-
-Next features to add in future firmware versions:
-
-1.- Full advanced color frame by frame (Key Frame).<br>
-2.- Wireless WIFI support.
+<b>Next features to add in future firmware versions:</b>
+<ul>
+<li>Full advanced color frame by frame (Key Frame).</li>
+<li>Wireless WIFI support.</li>
+</ul>
