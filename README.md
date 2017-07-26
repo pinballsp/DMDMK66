@@ -11,15 +11,16 @@ Contact and orders by email pinballsp@gmail.com, Whatsapp +34 693344445, Skype p
 Hardware and firmware developer, Luis Hernández Salvador (pinballsp@gmail.com)
 
 Current firmware version V1.04, systems supported.
-
-All real pinball Bally/Williams (WPC, WPC95, WPC-S, WPC-DCS)<br>
-All real pinball Data East<br>
-All real pinball Stern/Sega WhiteStar<br>
-All real pinball Stern SAM<br>
-All real pinball Capcom<br>
-All real pinball Stern Spike<br>
-All real pinball Spinball (Jollye Park and similar)<br>
-All SEGA 192x64 real pinball (Maverick, Batman, Baywatch, Frankenstein)<br>
+<ul>
+<li>All real pinball Bally/Williams (WPC, WPC95, WPC-S, WPC-DCS)</li>
+<li>All real pinball Data East</li>
+<li>All real pinball Stern/Sega WhiteStar</li>
+<li>All real pinball Stern SAM</li>
+<li>All real pinball Capcom</li>
+<li>All real pinball Stern Spike</li>
+<li>All real pinball Spinball (Jollye Park and similar)</li>
+<li>All SEGA 192x64 real pinball (Maverick, Batman, Baywatch, Frankenstein)</li>
+</ul>
 
 Working to add soon:
 
