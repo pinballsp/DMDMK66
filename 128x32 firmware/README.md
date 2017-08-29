@@ -9,3 +9,9 @@ Files:<br>
 dmdmk66b1.bin --> Beta1 (Date 29-8-2017) <br>
 dmdmk66b2.bin --> Beta2 (Date 29-8-2017) 
 
+
+INSTRUCTIONS TO CONFIGURE COLOR PALETTES AND BRIGHTNESS LEVEL
+=============================================================
+
+
+![alt text](http://i.imgur.com/QEe2C4Z.jpg)
