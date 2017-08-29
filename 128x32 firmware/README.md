@@ -15,7 +15,7 @@ dmdmk66b2.bin --> Beta2 (Date 29-8-2017)
 
 Insert an empty SD  card (FAT32 formated) in the SD card socket, connect DMDMK66 and start, the firmware will create a configure file with default values in your SD card with name DMDMK66.txt. You may edit this file with any text editor.
 
-Check picture attached, lines 24 to 27 are color palettes, and line 28 is the brightness level. Each color palette line has 16 colors, one digit for each color, the first 1-4 digits are the colors for the 4 colors machines, 1-16 digits are the 16 colors for Stern SAM/Spike.
+Check picture attached, lines 24 to 27 are color palettes, and line 28 is the brightness level. Each color palette line has 16 colors, one digit for each color, 1-16 digits are the 16 colors for Stern SAM/Spike, the first 1-4 digits are the colors for rest of pinball mnachines (4 colors).
 
 You may configure colors, simply replacing each digit by the color desired. In the file is identified each color with a digit, for example the Red color is 3, Black color is 0, etc... About the brightness level, may choose a value between 0 and 9, where 0 is the lower brightness level, and 9 is the higher. 
 <br><br>
