@@ -13,7 +13,7 @@ dmdmk66b2.bin --> Beta2 (Date 29-8-2017)
 <b>Instructions to configure Color Palettes and Brightness level</b>
 <br><br>
 
-Insert an empty SD  card (FAT32 formated) in the SD card socket, connect DMDMK66 and start, firmware will create a configure file with default values in your SD card with name DMDMK66.txt. You may edit this file with any text editor.
+Insert an empty SD  card (FAT32 formated) in the SD card socket, connect DMDMK66 and start, the firmware will create a configure file with default values in your SD card with name DMDMK66.txt. You may edit this file with any text editor.
 
 Check picture attached, lines 24 to 27 are color palettes, and line 28 is the brightness level. Each color palette line has 16 colors, one digit for each color, the first 1-4 digits are the colors for the 4 colors machines, 1-16 digits are the 16 colors for Stern SAM/Spike.
 
