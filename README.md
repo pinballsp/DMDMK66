@@ -8,6 +8,8 @@ Current versions available, 128x32 and 192x64. Under development 128x16.
 More information, pictures, full features and orders in http://www.pinballsp.com
 Contact and orders by email pinballsp@gmail.com, Whatsapp +34 693344445, Skype pinballsp, Facebook messenger https://www.facebook.com/Pinballsp 
 
+(*) Beta version: means it is under test, so it may not yet work perfectly. I'm working, to make sure it works 100% stable.
+
 Hardware and firmware developer, Luis Hernández Salvador (pinballsp@gmail.com)
 
 <b>Current firmware version V1.04, systems supported.</b>
@@ -16,9 +18,9 @@ Hardware and firmware developer, Luis Hernández Salvador (pinballsp@gmail.com)
 <li>All real pinball Data East</li>
 <li>All real pinball Stern/Sega WhiteStar</li>
 <li>All real pinball Stern SAM</li>
-<li>All real pinball Capcom (beta version)</li>
-<li>All real pinball Stern Spike (beta version)</li>
-<li>All real pinball Spinball (Jolly Park and similar)</li>
+<li>All real pinball Capcom (Beta version)</li>
+<li>All real pinball Stern Spike (Beta version)</li>
+<li>All real pinball Spinball (Beta version, Jolly Park and similar)</li>
 <li>All SEGA 192x64 real pinball (Maverick, Batman, Baywatch, Frankenstein)</li>
 </ul>
 
