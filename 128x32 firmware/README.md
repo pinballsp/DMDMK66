@@ -1,5 +1,7 @@
 
-This  is last firmware version available for DMDMK66 128x32. Rename file to DMDMK66.bin, copy to SD card and insert SD in DMDMK66, next time that your DMDMK66 start will update automatically.
+This is the latest firmware version available for DMDMK66 128x32.
+
+Rename the BIN file to DMDMK66.bin, copy it to the SD card, insert the SD card into your DMDMK66. The next time you start your DMDMK66, it will update automatically.
 
 Any question, suggestion or problem, contact pinballsp@gmail.com, Skype pinballsp, Whatsapp +34693344445, Facebook https://www.facebook.com/Pinballsp
 
