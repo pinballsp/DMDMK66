@@ -11,6 +11,6 @@ dmdmk66b2.bin --> Beta2 (Date 29-8-2017)
 
 <br>
 <b>Instructions to configure Color Palettes and Brightness level</b>
-<br>
+<br><br>
 
 ![alt text](http://i.imgur.com/QEe2C4Z.jpg)
