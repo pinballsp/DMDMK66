@@ -1,7 +1,7 @@
 
 This is the fist firmware version (Beta) available for DMDMK66 192x64.
 
-Download, copy it to the SD card, insert the SD card into your DMDMK66 192x64. The next time you start your DMDMK66, it will update automatically. There are two Beta files, if you detect some problem with one, try the other (both tested here work fine).
+Download dmdmk66.bin file, copy it to the SD card, insert the SD card into your DMDMK66 192x64. The next time you start your DMDMK66, it will update automatically. There are two Beta files, if you detect some problem with one, try the other (both tested here work fine).
 
 Any question, suggestion or bug, contact pinballsp@gmail.com, Skype pinballsp, Whatsapp +34693344445, Facebook https://www.facebook.com/Pinballsp
 
