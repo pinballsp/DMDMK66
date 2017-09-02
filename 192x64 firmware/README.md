@@ -6,7 +6,7 @@ Download dmdmk66.bin file, copy it to the SD card, insert the SD card into your 
 Any question, suggestion or bug, contact pinballsp@gmail.com, Skype pinballsp, Whatsapp +34693344445, Facebook https://www.facebook.com/Pinballsp
 
 Files:<br>
-dmdmk66.bin --> Beta1 (Date 2-9-2017) <br>
+dmdmk66.bin --> v1.6 Beta1 (Date 2-9-2017) <br>
 
 <br>
 <b>Instructions to configure Color Palettes and Brightness level</b>
