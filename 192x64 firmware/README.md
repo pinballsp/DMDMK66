@@ -1,5 +1,5 @@
 
-This is the fist firmware version (Beta) available for DMDMK66 192x64.
+This is the fist firmware version (v1.6 Beta) available for DMDMK66 192x64.
 
 Download dmdmk66.bin file, copy it to the SD card, insert the SD card into your DMDMK66 192x64. The next time you start your DMDMK66, it will update automatically. 
 
