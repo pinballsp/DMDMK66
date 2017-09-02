@@ -1,1 +1,23 @@
-This is last firmware version available for DMDMK66 192x64. Load file in the micro SD card of your DMDMK66 and reset device to update.
+
+This is the fist firmware version (Beta) available for DMDMK66 192x64.
+
+Download, copy it to the SD card, insert the SD card into your DMDMK66 192x64. The next time you start your DMDMK66, it will update automatically. There are two Beta files, if you detect some problem with one, try the other (both tested here work fine).
+
+Any question, suggestion or bug, contact pinballsp@gmail.com, Skype pinballsp, Whatsapp +34693344445, Facebook https://www.facebook.com/Pinballsp
+
+Files:<br>
+dmdmk66.bin --> Beta1 (Date 2-9-2017) <br>
+
+<br>
+<b>Instructions to configure Color Palettes and Brightness level</b>
+<br><br>
+
+Insert an empty SD  card (FAT32 formated) in the SD card socket, connect DMDMK66 and start, the firmware will create a configure file with default values in your SD card with name DMDMK66.txt. You may edit this file with any text editor.
+
+Check picture attached, lines 24 to 27 are color palettes, and line 28 is the brightness level. Each color palette line has 16 colors, one digit for each color, 1-16 digits are the 16 colors for Stern SAM/Spike, the first 1-4 digits are the colors for rest of pinball mnachines (4 colors).
+
+You may configure colors, simply replacing each digit by the color desired. In the file is identified each color with a digit, for example the Red color is 3, Black color is 0, etc... About the brightness level, may choose a value between 0 and 9, where 0 is the lower brightness level, and 9 is the higher. 
+<br><br>
+
+![alt text](http://i.imgur.com/QEe2C4Z.jpg)
+
