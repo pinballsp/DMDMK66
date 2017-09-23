@@ -18,7 +18,7 @@ Hardware and firmware developer, Luis Hernández Salvador (pinballsp@gmail.com)
 <li>All real pinball Data East</li>
 <li>All real pinball Stern/Sega WhiteStar</li>
 <li>All real pinball Stern SAM</li>
-<li>All real pinball Spinball (Jolly Park and similar)</li>
+<li>All real pinball Spinball (Jolly Park, Mach 2.0 Two, Verne's World)</li>
 <li>All SEGA 192x64 real pinball (Maverick, Batman, Baywatch, Frankenstein)</li>
 <br>
 <li>All real pinball Capcom (Beta version)</li>
