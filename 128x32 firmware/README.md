@@ -1,13 +1,13 @@
 
-This is the fist firmware version (v1.6 Beta) available for DMDMK66 128x32.
+Current firmware version v1.8 for DMDMK66 128x32.
 
-Rename the BIN file to dmdmk66.bin, copy it to the SD card, insert the SD card into your DMDMK66. The next time you start your DMDMK66, it will update automatically. There are two Beta files, if you detect some problem with one, try the other (both tested here work fine).
+Uncompress RAR file and copy dmdmk66.bin file to your SD card, insert the SD card into your DMDMK66. The next time you start your DMDMK66, it will update automatically. 
 
 Any question, suggestion or bug, contact pinballsp@gmail.com, Skype pinballsp, Whatsapp +34693344445, Facebook https://www.facebook.com/Pinballsp
 
 Files:<br>
-dmdmk66b1.bin --> v1.6 Beta1 (Date 29-8-2017) <br>
-dmdmk66b2.bin --> v1.6 Beta2 (Date 29-8-2017) 
+dmdmk66.bin --> v1.8 (Date 5-10-2017) <br>
+ New features v1.8, fix a bug in Bally/Williams.
 
 <br>
 <b>Instructions to configure Color Palettes and Brightness level</b>
