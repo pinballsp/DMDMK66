@@ -14,20 +14,22 @@ New features v1.81:
 <li>Add RGB configuration, allow custom colors with HEX RGB value</li>
 <li>Fix minor bugs in WPC</li>
 </ul>
- <br><br>
+<br>
 Insert an empty SD  card (FAT32 formated) in the SD card socket, connect DMDMK66 and start, the firmware will create a configure file with default values in your SD card with name DMDMK66.txt. You may edit this file with any text editor.
  
 <br>
 <b>Configuration Instructions.</b>
 <br><br>
+<ul>
+<li>BRG, is the brightness level, configure a value between 0 a 9 (suggested 2 if no filter, higher with filter)</li>
+<li>1PL, 1 Plane pinball, WPC, Spinball, Capcom (no yet available)</li>
+<li>TPL, configure type of Led panel, RGB or RBG (RBG by default)</li>
+<li>CC00 to CC28, define de RGB HEX value for each color, you may modify to create custom colors.</li>
+<li>PA1 to PA4, colors palettes, each line has 16 colors, the first 4 colors are for 4 colors pinball machines
+            (WPC, WhiteStar, Data East, Spinball, Capcom). 1-16 for 16 colors pinball (Spike, SAM). If you configure
+            different colors for each line, the color palette will change on play automatically each 25 seconds.</li>
+</ul>
 
-BRG, is the brightness level, configure a value between 0 a 9 (suggested 2 if no filter, higher with filter)<br>
-1PL, 1 Plane pinball, WPC, Spinball, Capcom (no yet available)<br>
-TPL, configure type of Led panel, RGB or RBG (RBG by default)<br>
-CC00 to CC28, define de RGB HEX value for each color, you may modify to create custom colors.<br>
-PA1 to PA4, colors palettes, each line has 16 colors, the first 4 colors are for 4 colors pinball machines<br>
-            (WPC, WhiteStar, Data East, Spinball, Capcom). 1-16 for 16 colors pinball (Spike, SAM). If you configure<br>
-            different colors for each line, the color palette will change on play automatically each 25 seconds.<br>
 
 <br><br>
 
