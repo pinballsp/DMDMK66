@@ -15,7 +15,7 @@ dmdmk66.bin --> v1.81 (Date 2-12-2017) <br>
 <li>Add RGB configuration, allow custom colors with HEX RGB value</li>
 <li>Fix minor bugs in WPC</li>
 </ul>
-<br>
+
 <b>Update firmware Instructions</b>
 <br><br>
 Insert an empty SD  card (FAT32 formated) in the SD card socket, connect DMDMK66 and start, the firmware will create a configure file with default values in your SD card with name DMDMK66.txt. You may edit this file with any text editor.
