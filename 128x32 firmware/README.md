@@ -16,7 +16,7 @@ dmdmk66.bin --> v1.81 (Date 2-12-2017) <br>
 
 <b>Update firmware Instructions</b>
 <br><br>
-Uncompress RAR file and copy dmdmk66.bin file to your SD card (FAT32 formated). Insert the SD card into your DMDMK66. The next time you start your DMDMK66, it will update automatically. <br>
+Uncompress RAR file and copy dmdmk66.bin file to your SD card (FAT32 formated). Insert the SD card into your DMDMK66. The next time you start your DMDMK66, it will update automatically. <br><br>
 When install a new version, remove the dmdmk66.txt file from your SD card, because may be there are new paramaters available, as soon as your DMDMK66 start will create a new dmdmk66.txt configuration file, you may edit to modify configuration (colors, brightness level, palettes, etc...)
 <br><br>
 <b>Configuration Instructions</b>
