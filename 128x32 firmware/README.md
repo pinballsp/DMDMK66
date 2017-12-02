@@ -1,8 +1,6 @@
 
 Current firmware version v1.81 for DMDMK66 128x32.
 
-Uncompress RAR file and copy dmdmk66.bin file to your SD card, insert the SD card into your DMDMK66. The next time you start your DMDMK66, it will update automatically. 
-
 Any question, suggestion or bug, contact pinballsp@gmail.com, Skype pinballsp, Whatsapp +34693344445, Facebook https://www.facebook.com/Pinballsp
 
 Files:<br>
@@ -18,7 +16,7 @@ dmdmk66.bin --> v1.81 (Date 2-12-2017) <br>
 
 <b>Update firmware Instructions</b>
 <br><br>
-Insert an empty SD  card (FAT32 formated) in the SD card socket, connect DMDMK66 and start, the firmware will create a configure file with default values in your SD card with name DMDMK66.txt. You may edit this file with any text editor.
+Uncompress RAR file and copy dmdmk66.bin file to your SD card (FAT32 formated). Insert the SD card into your DMDMK66. The next time you start your DMDMK66, it will update automatically. When install a new version, remove the dmdmk66.txt file from your SD card, because may be there are new paramaters available, as soon as your DMDMK66 start will create a new dmdmk66.txt configuration file, you may edit to modify configuration (colors, brightness level, palettes, etc...)
 <br><br>
 <b>Configuration Instructions</b>
 <br>
