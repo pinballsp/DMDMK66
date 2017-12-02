@@ -19,7 +19,7 @@ Insert an empty SD  card (FAT32 formated) in the SD card socket, connect DMDMK66
  
 <br><br>
 <b>Configuration Instructions.</b>
-<br><br>
+<br>
 <ul>
 <li>BRG, is the brightness level, configure a value between 0 a 9 (suggested 2 if no filter, higher with filter)</li>
 <li>1PL, 1 Plane pinball, WPC, Spinball, Capcom (no yet available)</li>
