@@ -17,7 +17,7 @@ New features v1.81:
 <br>
 Insert an empty SD  card (FAT32 formated) in the SD card socket, connect DMDMK66 and start, the firmware will create a configure file with default values in your SD card with name DMDMK66.txt. You may edit this file with any text editor.
  
-<br><br>
+<br>
 <b>Configuration Instructions.</b>
 <br>
 <ul>
