@@ -7,7 +7,8 @@ Any question, suggestion or bug, contact pinballsp@gmail.com, Skype pinballsp, W
 
 Files:<br>
 dmdmk66.bin --> v1.81 (Date 2-12-2017) <br>
-New features v1.81:
+<br>
+<b>v1.81 Firmnware, wew features</b>
 <ul>
 <li>Add Multipalette (up to 4 palettes with auto change each 25 seconds)</li>
 <li>Add 10 more direct colors (total 29 preconfigured RGB colors)</li>
@@ -19,7 +20,7 @@ New features v1.81:
 <br><br>
 Insert an empty SD  card (FAT32 formated) in the SD card socket, connect DMDMK66 and start, the firmware will create a configure file with default values in your SD card with name DMDMK66.txt. You may edit this file with any text editor.
 <br><br>
-<b>Configuration Instructions.</b>
+<b>Configuration Instructions</b>
 <br><br>
 <ul>
 <li>BRG, is the brightness level, configure a value between 0 a 9 (suggested 2 if no filter, higher with filter)</li>
