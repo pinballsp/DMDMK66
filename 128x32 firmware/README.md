@@ -15,9 +15,11 @@ New features v1.81:
 <li>Fix minor bugs in WPC</li>
 </ul>
 <br>
+<b>Update firmware Instructions</b>
+<br>
 Insert an empty SD  card (FAT32 formated) in the SD card socket, connect DMDMK66 and start, the firmware will create a configure file with default values in your SD card with name DMDMK66.txt. You may edit this file with any text editor.
 <br><br>
-<b><u>Configuration Instructions.</u></b>
+<b>Configuration Instructions.</b>
 <br><br>
 <ul>
 <li>BRG, is the brightness level, configure a value between 0 a 9 (suggested 2 if no filter, higher with filter)</li>
