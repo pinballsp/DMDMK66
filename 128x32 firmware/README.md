@@ -6,7 +6,7 @@ Any question, suggestion or bug, contact pinballsp@gmail.com, Skype pinballsp, W
 Files:<br>
 dmdmk66.bin --> v1.81 (Date 2-12-2017) <br>
 <br>
-<b>v1.81 Firmnware, wew features</b>
+<b>v1.81 Firmnware, new features</b>
 <ul>
 <li>Add Multi palette option (up to 4 color palettes with automatic change every 25 seconds) </li>
 <li>Add 10 more colors (a total of 29 preconfigured RGB colors)</li>
