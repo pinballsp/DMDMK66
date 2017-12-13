@@ -12,7 +12,7 @@ dmdmk66.bin --> v1.84 (Date 12-12-2017) <br>
 <li>Add Multi palette option (up to 4 color palettes with automatic change every 25 seconds) </li>
 <li>Add 10 more colors (a total of 29 preconfigured RGB colors)</li>
 <li>Add RGB settings, allow custom colors with their RGB HEX value</li>
-<li>Add configuration of Led Panel, RGB, BGR, RBG, to work with several led panle manufacturers.</li>
+<li>Add configuration of Led Panel, RGB, BGR, RBG, to work with several led panel manufacturers.</li>
 </ul>
 
 <b>Instructions for updating the Firmware</b>
