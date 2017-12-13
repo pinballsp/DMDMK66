@@ -12,7 +12,7 @@ Contact and orders by email pinballsp@gmail.com, Whatsapp +34 693344445, Skype p
 
 Hardware and firmware developer, Luis Hernández Salvador (pinballsp@gmail.com)
 
-<b>Current firmware version V1.7, systems supported.</b>
+<b>Current Last firmware version, systems supported.</b>
 <ul>
 <li>All real pinball Bally/Williams (WPC, WPC95, WPC-S, WPC-DCS)</li>
 <li>All real pinball Data East</li>
