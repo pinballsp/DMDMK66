@@ -40,3 +40,7 @@ Hardware and firmware developer, Luis Hernández Salvador (pinballsp@gmail.com)
 <li>Advanced Magic Color Editor (to colorize games, frame by frame)</li>
 <li>Wireless WIFI support.</li>
 </ul>
+
+
+
+![alt text](https://i.imgur.com/56TmZ3b.jpg)
