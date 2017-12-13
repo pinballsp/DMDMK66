@@ -6,7 +6,7 @@ Any question, suggestion or bug, contact pinballsp@gmail.com, Skype pinballsp, W
 Files:<br>
 dmdmk66.bin --> v1.84 (Date 12-12-2017) <br>
 <br>
-<b>v1.84 Firmnware, new features</b>
+<b>v1.84 Firmware, new features</b>
 <ul>
 <li> Fixed a bug (first/last row, already  it works well)</li>
 <li> Added Auto Palette option (up to 4 color Palettes with automatic change every 25-30 seconds)</li>
