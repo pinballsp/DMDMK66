@@ -5,9 +5,7 @@ Any question, suggestion or bug, contact pinballsp@gmail.com, Skype pinballsp, W
 
 <b>Files:</b><br>
 dmdmk66.bin --> v1.82 (Date 14-12-2017) <br>
-
-<br>
-<br>v1.82 Firmware, new features</b>
+<br><b>v1.82 Firmware, new features</b>
 <ul>
 <li>Added Auto Sync routine: avoids the problems of loss of horizontal synchronism that occurred with Bally / Williams</li>
 </ul>
