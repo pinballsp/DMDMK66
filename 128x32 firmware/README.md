@@ -7,7 +7,7 @@ Any question, suggestion or bug, contact pinballsp@gmail.com, Skype pinballsp, W
 dmdmk66.bin --> v1.82 (Date 14-12-2017) <br>
 <br><b>v1.82 Firmware, new features</b>
 <ul>
-<li>Added Auto Sync routine: avoids the problems of loss of horizontal synchronism that occurred with Bally / Williams</li>
+<li>Added Auto Sync routine: avoids the problems of loss of horizontal synchronism (lateral displacements of the image) that happened with Bally/Williams, now all works perfectly.</li>
 </ul>
 <br>
 <b>v1.81 Firmnware, new features</b>
