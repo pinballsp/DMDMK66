@@ -12,10 +12,10 @@ dmdmk66.bin --> v1.82 (Date 14-12-2017) <br>
 <br>
 <b>v1.81 Firmnware, new features</b>
 <ul>
-<li>Add Multi palette option (up to 4 color palettes with automatic change every 25 seconds) </li>
-<li>Add 10 more colors (a total of 29 preconfigured RGB colors)</li>
-<li>Add RGB settings, allow custom colors with their RGB HEX value</li>
-<li>Fix minor bugs in WPC</li>
+<li>Added Auto Palette option (up to 4 color Palettes with automatic change every 25-30 seconds)</li>
+<li>Added 10 more colors (total, 29 pre-configured colors available)</li>
+<li>Added RGB configuration, allows to create customized colors with their RGB HEX value</li>
+<li>Fixed minor bugs in WPC</li>
 </ul>
 
 <b>Instructions for updating the Firmware</b>
