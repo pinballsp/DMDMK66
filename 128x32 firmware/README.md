@@ -1,10 +1,17 @@
 
-Current firmware version v1.81 for DMDMK66 128x32..
+Current firmware version v1.82 for DMDMK66 128x32..
 
 Any question, suggestion or bug, contact pinballsp@gmail.com, Skype pinballsp, Whatsapp +34693344445, Facebook https://www.facebook.com/Pinballsp
 
-Files:<br>
-dmdmk66.bin --> v1.81 (Date 2-12-2017) <br>
+<b>Files:</b><br>
+dmdmk66.bin --> v1.82 (Date 14-12-2017) <br>
+
+<br>
+<br>v1.82 Firmware, new features</b>
+<ul>
+<li>Added Auto Sync routine: avoids the problems of loss of horizontal synchronism that occurred with Bally / Williams</li>
+</ul>
+
 <br>
 <b>v1.81 Firmnware, new features</b>
 <ul>
