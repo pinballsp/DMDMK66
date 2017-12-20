@@ -9,7 +9,8 @@ Any question, suggestion or bug, contact pinballsp@gmail.com, Skype pinballsp, W
 <b>v1.82 Firmware, new features</b><ul>
 <li>Added Auto Sync routine: avoids the problems of loss of horizontal synchronism (lateral displacements of the image) that happened with Bally/Williams, now all works perfectly.</li>
 </ul>
-<b>v1.81 Firmnware, new features</b><ul>
+<b>v1.81 Firmnware, new features</b>
+<ul>
 <li>Added Auto Palette option (up to 4 color Palettes with automatic change every 25-30 seconds)</li>
 <li>Added 10 more colors (total, 29 pre-configured colors available)</li>
 <li>Added RGB configuration, allows to create customized colors with their RGB HEX value</li>
