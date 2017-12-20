@@ -3,8 +3,7 @@ Current firmware version v1.83 for DMDMK66 128x32..
 
 Any question, suggestion or bug, contact pinballsp@gmail.com, Skype pinballsp, Whatsapp +34693344445, Facebook https://www.facebook.com/Pinballsp
 
-<b>Files:</b><br>
-dmdmk66.bin --> v1.83 (Date 20-12-2017) <br>
+<b>Files:</b> dmdmk66.bin --> v1.83 (Date 20-12-2017) <br>
 
 <br><b>v1.83 Firmware, new features</b><ul>
 <li> Added CAPCOM pinball. Tested, works at 100%, Automatic detection: the user does not need to configure the pinball manufacturer, the firmware detects it automatically. Automatic synchronization, avoids the loss of horizontal synchronism (lateral displacements of the image). </ Li></ul>
