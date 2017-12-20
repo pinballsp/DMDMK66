@@ -5,8 +5,7 @@ Any question, suggestion or bug, contact pinballsp@gmail.com, Skype pinballsp, W
 
 <b>Files:</b> dmdmk66.bin --> v1.83 (Date 20-12-2017) <br>
 
-<br><b>v1.83 Firmware, new features</b><ul>
-<li> Added CAPCOM pinball. Tested, works at 100%, Automatic detection: the user does not need to configure the pinball manufacturer, the firmware detects it automatically. Automatic synchronization, avoids the loss of horizontal synchronism (lateral displacements of the image). </ Li></ul>
+<br><b>v1.83 Firmware, new features</b><ul><li>Added CAPCOM pinball. Tested, works at 100%, Automatic detection: the user does not need to configure the pinball manufacturer, the firmware detects it automatically. Automatic synchronization, avoids the loss of horizontal synchronism (lateral displacements of the image). </ Li></ul>
 <b>v1.82 Firmware, new features</b><ul>
 <li>Added Auto Sync routine: avoids the problems of loss of horizontal synchronism (lateral displacements of the image) that happened with Bally/Williams, now all works perfectly.</li>
 </ul>
