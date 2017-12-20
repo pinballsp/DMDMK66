@@ -14,15 +14,15 @@ Hardware and firmware developer, Luis Hernández Salvador (pinballsp@gmail.com)
 
 <b>Current Last firmware version, systems supported.</b>
 <ul>
-<li>All real pinball Bally/Williams (WPC, WPC95, WPC-S, WPC-DCS)</li>
-<li>All real pinball Data East</li>
-<li>All real pinball Stern/Sega WhiteStar</li>
-<li>All real pinball Stern SAM</li>
-<li>All real pinball Spinball (Jolly Park, Mach 2.0 Two, Verne's World)</li>
-<li>All SEGA 192x64 real pinball (Maverick, Batman, Baywatch, Frankenstein)</li>
-<li>All real pinball Capcom</li>
+<li>All Bally/Williams pinball (WPC, WPC95, WPC-S, WPC-DCS)</li>
+<li>All Data East pinball</li>
+<li>All Stern/Sega WhiteStar pinball</li>
+<li>All Stern SAM pinball</li>
+<li>All Spinball pinball (Jolly Park, Mach 2.0 Two, Verne's World)</li>
+<li>All SEGA 192x64 pinball (Maverick, Batman, Baywatch, Frankenstein)</li>
+<li>All Capcom pinball</li>
 <br>
-<li>All real pinball Stern Spike (Beta version)</li>
+<li>All Stern Spike pinball (Beta version, yet need fix some bugs)</li>
 </ul>
 
 <b>Working to add soon:</b>
