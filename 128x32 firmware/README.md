@@ -25,7 +25,7 @@ When you install a new version, delete the dmdmk66.txt file from the SD card, as
 <b>Configuration Instructions</b>
 <br>
 <ul>
-<li> BRG, is the brightness level, set a value between 0 and 9 (2 is suggested if there is no filter, higher with filter) </ li>
+<li> BRG, is the brightness level, set a value between 0 and 9 (suggest, 0 without filter, 2 with Amber filter) </ li>
 <li> TPL, configures the type of Led panel, RGB or RBG (default RGB) </ li>
 <li> CC00 to CC28, set the RGB HEX value for each color, you can modify it to create custom colors. </ li>
 <li> PA1 to PA4, color palettes, each line has 16 colors, the first 4 colors for each line are for 4 color pinball machines (WPC, WhiteStar, Data East, Spinball, Capcom). 1-16 colors for 16 color pinball machines (Spike, SAM). If you configure
