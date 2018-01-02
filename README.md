@@ -23,11 +23,11 @@ Hardware and firmware developer, Luis Hernández Salvador (pinballsp@gmail.com)
 <li>All Capcom pinball</li>
 <br>
 <li>All Stern Spike pinball (Beta version, yet need fix some bugs)</li>
+<li>All Gottlieb pinball (Beta version, yet need fix some bugs)</li>
 </ul>
 
 <b>Working to add soon:</b>
 <ul>
-<li>Gottlieb</li>
 <li>Spooky</li>
 <li>Alvin</li>
 <li>All 128x16 real pinball (Checkpoint, Teenage Mutant Ninja Turtles, Batman, Star Trek, Hook)</li>
@@ -38,6 +38,7 @@ Hardware and firmware developer, Luis Hernández Salvador (pinballsp@gmail.com)
 <ul>
 <li>Full advanced color frame by frame (Key Frame).</li>
 <li>Advanced Magic Color Editor (to colorize games, frame by frame)</li>
+<li>Color Processor, assistant for Advanced Color</li>  
 </ul>
 
 
