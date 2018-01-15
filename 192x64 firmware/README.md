@@ -1,11 +1,18 @@
 
-Current firmware version v1.84 for DMDMK66 192x64.
+Current firmware version v1.85 for DMDMK66 192x64.
 
 Any question, suggestion or bug, contact pinballsp@gmail.com, Skype pinballsp, Whatsapp +34693344445, Facebook https://www.facebook.com/Pinballsp
 
 Files:<br>
-dmdmk66.bin --> v1.84 (Date 12-12-2017) <br>
+dmdmk66.bin --> v1.85 (Date 16-1-2018) <br>
 <br>
+
+<b>v1.85 Firmware, new features</b>
+<ul>
+<li> Fixed a bug with Panel Type; RGB, RBG, BGR.</li>
+</ul>
+
+
 <b>v1.84 Firmware, new features</b>
 <ul>
 <li> Fixed a bug (first/last row, already  it works well)</li>
