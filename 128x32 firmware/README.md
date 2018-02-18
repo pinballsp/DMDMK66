@@ -1,6 +1,6 @@
 
 Current stable firmware version v1.83 for DMDMK66 128x32.<br>
-Last BETA version v1.84, Add support to SPIKE (yet under test)
+Current BETA version v1.84 Beta, Add support to SPIKE (yet under test).
 
 Any question, suggestion or bug, contact pinballsp@gmail.com, Skype pinballsp, Whatsapp +34693344445, Facebook https://www.facebook.com/Pinballsp
 
