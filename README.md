@@ -4,7 +4,8 @@
 ***************************************************************************************************<br>
 <b>VERY important</b>, this project has been migrated to Gitlab, here it will no longer be updated.
 <br><br>
-To access the new updates, visit the new link in Gitlab.<br>
+To access the new updates, visit the new link in Gitlab.
+<br>
 https://gitlab.com/pinballsp <br>
 ****************************************************************************************************
 <br><br><br>
