@@ -6,7 +6,7 @@
 <br><br>
 To access the new updates, visit the new link in Gitlab.
 <br>
-https://gitlab.com/pinballsp <br>
+https://gitlab.com/pinballsp <br><br>
 ****************************************************************************************************
 <br><br><br>
 
