@@ -6,6 +6,10 @@ Any question, suggestion or bug, contact pinballsp@gmail.com, Skype pinballsp, W
 
 <b>Files:</b> dmdmk66.bin --> v1.83 (Date 20-12-2017) <br>
 <b>Files:</b> dmdmk66.bin --> v1.84 Beta (Date 18-2-2018) <br>
+<b>Files:</b> dmdmk66.bin --> v1.84 Final (Date 8-8-2018, available in a few days) <br>
+
+<b>v1.84 Final version Firmware, new features</b>
+<ul><li>Added SPIKE pinball. 100% tested. Automatic detection: the user does not need to configure the pinball manufacturer, the firmware detects it automatically. Automatic synchronization, avoids the loss of horizontal synchronism (lateral displacements of the image).</Li></ul>
 
 <br><b>v1.84 BETA Firmware, new features</b>
 <ul><li>Added SPIKE pinball. This is a Beta under test. Automatic detection: the user does not need to configure the pinball manufacturer, the firmware detects it automatically. Automatic synchronization, avoids the loss of horizontal synchronism (lateral displacements of the image).</Li></ul>
