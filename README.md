@@ -31,8 +31,8 @@ Hardware and firmware developer, Luis Hernández Salvador (pinballsp@gmail.com)
 <li>All Spinball pinball (Jolly Park, Mach 2.0 Two, Verne's World)</li>
 <li>All SEGA 192x64 pinball (Maverick, Batman, Baywatch, Frankenstein)</li>
 <li>All Capcom pinball</li>
-<br>
-<li>All Stern Spike pinball (Beta version, yet need fix some bugs)</li>
+<li>All Stern Spike pinball</li>
+  <br>
 <li>All Gottlieb pinball (Beta version, yet need fix some bugs)</li>
 </ul>
 
