@@ -11,7 +11,7 @@ Dumps of 10 games for TEST --> https://mega.nz/#!xY9CRIyR!bKs7UA1kPijT91uUX8kZB-
 
 <br>
 
-![alt text](https://i.imgur.com/jvg0XTi.jpg)
+![alt text](https://i.imgur.com/AOTIwaK.jpg)
 
 ![alt text](https://i.imgur.com/6FGRpBq.jpg)
 
