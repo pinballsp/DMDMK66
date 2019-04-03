@@ -8,7 +8,7 @@ Windows 64 bit---> https://mega.nz/#!VB03FCBK!hpjbZZjymXXqRZG3PjpNBphxPQK3PpmPNU
 Linux 64 bit -----> https://mega.nz/#!9AlTxSgC!4HHVnbvopdlLGROl5piANd__uiD67gpBD-jAaJqCniQ
 <br>
 Dumps of 10 games for TEST --> https://mega.nz/#!xY9CRIyR!bKs7UA1kPijT91uUX8kZB-B3goU23bWr0896Ik82e6A
-<br>
+<br><br>
 Suggestions, to optimize coloring tasks with Magic Editor:
 <br><br>
 1.- Use the interactive zoom with the Ctrl + Mouse wheel.<br>
@@ -20,7 +20,6 @@ Suggestions, to optimize coloring tasks with Magic Editor:
 7.- You can generate color gradients automatically and save them by assigning a name, with the option View> Favorite colors. Also in this option you can create and save your favorite colors and Color groups.<br>
 8.- Use the Smart Pencil with a Predefined Color Group, it is the MOST POWERFUL option of Magic Editor, together with the Frame over Frame, to paint quickly, in a simple and very comfortable way. It saves a lot of work time.<br>
 <br><br>
-
 ![alt text](https://i.imgur.com/AOTIwaK.jpg)
 
 ![alt text](https://i.imgur.com/6FGRpBq.jpg)
