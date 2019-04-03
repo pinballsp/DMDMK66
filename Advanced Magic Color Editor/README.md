@@ -9,7 +9,7 @@ Linux 64 bit -----> https://mega.nz/#!kF9wQaJA!TgHIDjRR6J46FVno8A934J7A6fsWHE53W
 <br>
 Dumps of 10 games for TEST --> https://mega.nz/#!xY9CRIyR!bKs7UA1kPijT91uUX8kZB-B3goU23bWr0896Ik82e6A
 <br><br>
-Suggestions, to optimize coloring tasks with Magic Editor:
+<b>Suggestions, to optimize coloring tasks with Magic Editor:</b>
 <br><br>
 1.- Use the Interactive Zoom with the Ctrl + Mouse Wheel.<br>
 2.- Use Shift + Mouse Wheel for the thickness selection of the Brush to paint several pixels with several colors at once, it is a very powerful option and saves a lot of time.<br>
