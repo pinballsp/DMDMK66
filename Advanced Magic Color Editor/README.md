@@ -3,9 +3,9 @@ This advanced software, allow apply advanced color to all games supported by DMD
 
 <b>DMD Magic Editor V1.0 3-4-2019</b>
 <br><br>
-Windows 
+Windows ---> https://mega.nz/#!oZc2mCZD!f9rQVXl922WWBDXHqgUjYrahWehN09mrTucJ_6FoPck 
 <br>
-Linux
+Linux -----> https://mega.nz/#!JQNQxYxJ!xd-QxuPjrPU7rcAKRArsMQDOyUpxSym2MBCZArAXAxA
 
 <br>
 
