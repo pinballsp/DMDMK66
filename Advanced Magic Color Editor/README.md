@@ -9,4 +9,6 @@ Linux
 
 <br>
 
+![alt text](https://i.imgur.com/6FGRpBq.jpg)
+
 ![alt text](https://i.imgur.com/IUUzazx.jpg)
