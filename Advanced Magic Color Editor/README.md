@@ -24,4 +24,8 @@ Dumps of 10 games for TEST --> https://mega.nz/#!xY9CRIyR!bKs7UA1kPijT91uUX8kZB-
 
 ![alt text](https://i.imgur.com/6FGRpBq.jpg)
 
+![alt text](https://i.imgur.com/zvsgezm.jpg)
+
+![alt text](https://i.imgur.com/hH0OaZ2.jpg)
+
 ![alt text](https://i.imgur.com/IUUzazx.jpg)
