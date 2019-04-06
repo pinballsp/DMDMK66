@@ -7,7 +7,7 @@ Windows 64 bit---> https://mega.nz/#!kQ8HkIqJ!xMG178s5GSf3AVbGbxP8aiJgW103_zfoYn
 <br>
 Linux 64 bit -----> https://mega.nz/#!NQtVxALY!Z03OTWGk6x8rYE2n1p2gEiCy-KqnbKeD43CpnMkM5yE
 <br>
-Dumps of 10 games for TEST --> https://mega.nz/#!xY9CRIyR!bKs7UA1kPijT91uUX8kZB-B3goU23bWr0896Ik82e6A
+Dumps of 10 games for TEST --> https://mega.nz/#!5Q9z1YYT!rZ4lY4txrtpO4zDp_TamzGEO_PP5zwiMhpywDQo0FPI
 <br><br>
 <b>Suggestions, to optimize coloring tasks with Magic Editor:</b>
 <br><br>
