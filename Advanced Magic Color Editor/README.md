@@ -11,7 +11,7 @@ Dumps of 10 games for TEST (txt) --> https://mega.nz/#!5Q9z1YYT!rZ4lY4txrtpO4zDp
 <br>
 User Manual v07042019 (English) -->
 <br>
-Manual de Usuario v07042019 (Español --> https://mega.nz/#!tYFQwKpY!7So0XioKWOQO-NR6zmEoTDWTKxGwia4dKuo7ld8uKiA
+Manual v07042019 (Español) --> https://mega.nz/#!tYFQwKpY!7So0XioKWOQO-NR6zmEoTDWTKxGwia4dKuo7ld8uKiA
 <br><br>
 <b>Suggestions, to optimize coloring tasks with Magic Editor:</b>
 <br><br>
