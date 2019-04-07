@@ -9,9 +9,9 @@ Linux 32bit and 64bit -----> https://mega.nz/#!RA0SkIJI!WWMFJM5gaQPAVDcUtFLI2rBV
 <br>
 Dumps of 10 games for TEST (txt) --> https://mega.nz/#!5Q9z1YYT!rZ4lY4txrtpO4zDp_TamzGEO_PP5zwiMhpywDQo0FPI
 <br>
-User Manual v07042019 (English) -->
+User Manual (English) -->
 <br>
-Manual de Uso v07042019 (Español) --> https://mega.nz/#!tYFQwKpY!7So0XioKWOQO-NR6zmEoTDWTKxGwia4dKuo7ld8uKiA
+Manual de Usuario (Español) --> https://mega.nz/#!tYFQwKpY!7So0XioKWOQO-NR6zmEoTDWTKxGwia4dKuo7ld8uKiA
 <br><br>
 <b>Suggestions, to optimize coloring tasks with Magic Editor:</b>
 <br><br>
