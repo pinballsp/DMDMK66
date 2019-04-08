@@ -14,9 +14,9 @@ User Manual (English) --> https://mega.nz/#!RQdRRaZD!EObY4evIozv9Q5dXvOXYWfIexoo
 Manual de Usuario (Español) --> https://mega.nz/#!cFNinCZI!e5I02cix3Uo1-qgxv95mcI6Q1edaNqsaeh86ahR0XjM
 <br><br>
 
-![alt text](https://i.imgur.com/6FGRpBq.jpg)
-
 ![alt text](https://i.imgur.com/zvsgezm.jpg)
+
+![alt text](https://i.imgur.com/6FGRpBq.jpg)
 
 ![alt text](https://i.imgur.com/hH0OaZ2.jpg)
 
