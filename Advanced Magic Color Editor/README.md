@@ -9,7 +9,7 @@ Linux 32bit and 64bit -----> https://mega.nz/#!gAs1QAoQ!h-x92uNdeDb9GOhbuFlk3Lab
 <br>
 Dumps of 10 games for TEST (txt) --> https://mega.nz/#!5Q9z1YYT!rZ4lY4txrtpO4zDp_TamzGEO_PP5zwiMhpywDQo0FPI
 <br>
-User Manual (English) --> https://mega.nz/#!QBVkUYTC!Z47cOfteUC_IMyEUlB70LP_8nuyxgO7kiJ6EHzXKU80
+User Manual (English) --> https://mega.nz/#!RQdRRaZD!EObY4evIozv9Q5dXvOXYWfIexooJeWOb0LwB0YmcvEc
 <br>
 Manual de Usuario (Español) --> https://mega.nz/#!cFNinCZI!e5I02cix3Uo1-qgxv95mcI6Q1edaNqsaeh86ahR0XjM
 <br><br>
