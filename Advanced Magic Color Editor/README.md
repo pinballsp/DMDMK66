@@ -7,7 +7,7 @@ Windows 32/64 bit---> https://mega.nz/#!4RtT0AqA!ovjFJs7Ka1aLkVaribCpknjCFR8Iahb
 <br>
 Linux 32/64 bit -----> https://mega.nz/#!gAs1QAoQ!h-x92uNdeDb9GOhbuFlk3Labu39z8PS7Za6k96aGnZU
 <br>
-Dumps of 10 games for TEST (txt) --> https://mega.nz/#!5Q9z1YYT!rZ4lY4txrtpO4zDp_TamzGEO_PP5zwiMhpywDQo0FPI
+Dumps of 17 games for TEST (txt) --> https://mega.nz/#!NBsQ2QpS!PRI2mRtz33fv_A6pmsyUaHHFqsh2h6mEvhsQGmUmlBE
 <br>
 User Manual (English) --> https://mega.nz/#!RQdRRaZD!EObY4evIozv9Q5dXvOXYWfIexooJeWOb0LwB0YmcvEc
 <br>
