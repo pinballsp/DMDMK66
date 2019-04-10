@@ -9,9 +9,9 @@ Linux 32/64 bit -----> https://mega.nz/#!gAs1QAoQ!h-x92uNdeDb9GOhbuFlk3Labu39z8P
 <br>
 Dumps of 17 games for TEST (txt) --> https://mega.nz/#!NBsQ2QpS!PRI2mRtz33fv_A6pmsyUaHHFqsh2h6mEvhsQGmUmlBE
 <br>
-User Manual (English) --> https://mega.nz/#!RQdRRaZD!EObY4evIozv9Q5dXvOXYWfIexooJeWOb0LwB0YmcvEc
+User Manual (English) --> https://mega.nz/#!ZRcEQIZC!I8YmmLk-V3sHL4deoGea8cU3gjCX4dK7knExhmIJSRI
 <br>
-Manual de Usuario (Español) --> https://mega.nz/#!cFNinCZI!e5I02cix3Uo1-qgxv95mcI6Q1edaNqsaeh86ahR0XjM
+Manual de Usuario (Español) --> https://mega.nz/#!tRECWCxB!e2eZ3ylPn1_iW5dRcWWN7BYcuggctRKPjhWV5ANIel0
 <br><br>
 
 ![alt text](https://i.imgur.com/zvsgezm.jpg)
