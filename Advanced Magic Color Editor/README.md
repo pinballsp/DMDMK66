@@ -15,7 +15,7 @@ User Manual (English) --> https://mega.nz/#!0ckCjIab!KfS3p4sRNAD-RHvNsBJ5gvQZ253
 <br>
 Manual de Usuario (Español) --> https://mega.nz/#!oJsECIbL!oS_UphVp4YXwIiXf-SShf3vPajETQi9O1ddj4wERVRo
 <br>
-Manuel de l'utilisateur (français) -> https://mega.nz/#!8JtCHQIK!t8Bz6OtanbEb5A3q66tuZDZuQOzI6ZLQs6ICQr-D-fA
+Manuel de l'utilisateur (Français) -> https://mega.nz/#!8JtCHQIK!t8Bz6OtanbEb5A3q66tuZDZuQOzI6ZLQs6ICQr-D-fA
 <br><br>
 
 ![alt text](https://i.imgur.com/zvsgezm.jpg)
