@@ -4,8 +4,8 @@ Current BETA version v1.84 Beta, Add support to SPIKE (yet under test).
 
 Any question, suggestion or bug, contact pinballsp@gmail.com, Skype pinballsp, Whatsapp +34693344445, Facebook https://www.facebook.com/Pinballsp
 
-<b>Files:</b> dmdmk66.bin --> v1.83 (Date 20-12-2017) <br>
-<b>Files:</b> dmdmk66.bin --> v1.84 Final (Date 20-4-2019) <br>
+<b>Files:</b> dmdmk66.bin ---------> v1.83 (Date 20-12-2017) <br>
+<b>Files:</b> dmdmk66_v1.84b.rar --> v1.84 Final (Date 20-4-2019) <br>
 
 <br>
 <b>v1.84 Final version Firmware, new features</b>
