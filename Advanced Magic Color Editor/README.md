@@ -1,7 +1,7 @@
 The DMD Magic Editor allow apply Advanced Color frame by frame to all pinball manufacturer games supported by DMDMK66 and DMDMX7. Now available for Windows and Linux, may be in the future will add also Mac and Android. 
 <br>
 
-<b>DMD Magic Editor V1.2 24-5-2019</b>
+<b>DMD Magic Editor V1.2.0 24-5-2019</b>
 <br><br>
 Windows 32/64 bit---> https://mega.nz/#!Qc0Hka7Y!YAHr2UNaC8_C_TnezN4z5FDFiqikUch406yzN7koiIM
 <br>
