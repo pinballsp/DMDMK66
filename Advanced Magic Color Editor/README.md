@@ -5,7 +5,7 @@ The DMD Magic Editor allow apply Advanced Color frame by frame to all pinball ma
 
 <b>DMD Magic Editor V1.2.0 27-5-2019</b>
 <br><br>
-Windows 32/64 bit---> https://mega.nz/#!VAsgWYoI!JqE33jiQaDWsg-OS6hDYqTAn6OWT__8FQFVgF1V8P-s
+Windows 32/64 bit---> https://mega.nz/#!tANEFQDJ!na1FHBAGItIYsvQuAU8G_-qbYlrOVZuKhjCI3yOyNS4
 <br>
 Linux 32/64 bit -----> https://mega.nz/#!lZkQTC5R!0wVewBCzZ8uprZWvppSfVwhFtcmffK_5nW1trz7adQU
 <br>
