@@ -5,11 +5,11 @@ The DMD Magic Editor allow apply Advanced Color frame by frame to all pinball ma
 
 <b>DMD Magic Editor V1.2.0 5-6-2019</b>
 <br><br>
-Windows 32/64 bit---> https://mega.nz/#!cV8AGIpR!8OOB8oerRIHXkbJJfkBEdAXtxf8sTQEu_Y8XjURH7Tk
+Windows 32/64 bit---> https://mega.nz/#!ABlQFSSY!pxfpZ0T_4Dh1R21dMfcP25-yN81x_5kRwIVxFfiOxJU
 <br>
-Linux 32/64 bit -----> https://mega.nz/#!oNlkQC7Q!7kOXRtFVapC3wRK3k4KBioIEyTW2roIVDyAwfLDxc-A
+Linux 32/64 bit -----> https://mega.nz/#!oElGVCRK!2vQgQ1E6b67exUtsWJgIzcADZ63uLSbfKLmoji6kdbs
 <br>
-MacOS 32/64 bit -----> https://mega.nz/#!tItgnCqa!Vsn3ceMHex71y96XeRt3xsTj_mLfLzpVvGe7oQ8bJlU
+MacOS 32/64 bit -----> https://mega.nz/#!5Q0SQKpI!meB0lIxUQ1vlg0bhzXPND8a5o08xlX5lU2MhSyw9b0E
 <br>
 Dumps of 17 games for TEST --> https://mega.nz/#!NBsQ2QpS!PRI2mRtz33fv_A6pmsyUaHHFqsh2h6mEvhsQGmUmlBE
 <br>
