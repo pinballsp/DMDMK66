@@ -32,6 +32,7 @@ Hardware and firmware developer, Luis Hernández Salvador (pinballsp@gmail.com)
 <li>All SEGA 192x64 pinball (Maverick, Batman, Baywatch, Frankenstein)</li>
 <li>All Capcom pinball</li>
 <li>All Stern Spike pinball</li>
+<li>All INDER (Bushido)</li>  
   <br>
 <li>All Gottlieb pinball (Beta version, yet need fix some bugs)</li>
 </ul>
