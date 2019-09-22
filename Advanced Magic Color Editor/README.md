@@ -1,15 +1,15 @@
 
-The DMD Magic Editor allow apply Advanced Color frame by frame to all pinball manufacturer games supported by DMDMK66 and DMDMX7. 
+The DMD Magic Editor allow apply Advanced Color frame by frame to all pinball manufacturer games supported by DMDMK66 and DMDMX7, 128x16, 128x32 and 192x64. 
 
 <br>
 
-<b>DMD Magic Editor V1.3.0 7-8-2019</b>
+<b>DMD Magic Editor V1.4.0 22-9-2019</b>
 <br><br>
-Windows 32/64 bit---> https://mega.nz/#!hIFl3KhJ!SJGc50a9FYga0W6u31fbCxTQ_OpY597lU_DjcAip47M
+Windows 32/64 bit---> https://mega.nz/#!5EszxaRR!_2kL0xK1qS4tOZfnaw7YikyZ8sbj1cA-b2NPUS31UI8
 <br>
-Linux 32/64 bit -----> https://mega.nz/#!IUNhTQoT!KGgH64wKYCa9UnMWAsxHyyA1smcjBKzQXqznFrBsHvw
+Linux 32/64 bit -----> https://mega.nz/#!oA9hAI7K!ZtX5p0opdYH8lV63ry2g1b3s0ba_r4AHjbJjIY9wW_c
 <br>
-MacOS 32/64 bit -----> https://mega.nz/#!dYFl0QYI!gOAtW5wNaoGQKclRztZCtMtW0gTyB3ayiJD9c0JZdak
+MacOS 32/64 bit -----> https://mega.nz/#!MMlnGCyK!fTsZdER41-90Ms-KjWOKEyjRaLFpF3zmf0OB6quV9qA
 <br>
 
 Dumps of 17 games for TEST --> https://mega.nz/#!NBsQ2QpS!PRI2mRtz33fv_A6pmsyUaHHFqsh2h6mEvhsQGmUmlBE
