@@ -14,8 +14,6 @@ MacOS 32/64 bit -----> https://mega.nz/#!Zc9RlKBa!QWW06YtEKUegqk33xUFtynS3RLN5o2
 
 Dumps of 17 games for TEST --> https://mega.nz/#!NBsQ2QpS!PRI2mRtz33fv_A6pmsyUaHHFqsh2h6mEvhsQGmUmlBE
 <br><br>
-<b>NOTICE:</b> The user manuals are outdated, with respect to the current software version. There are many new features, not yet included in the manual, as soon as possible I will update them.
-<br><br>
 User Manual (English) --> https://mega.nz/#!hNUWnSaQ!BguqLraqUOeeqFtBDydcdau6XKLznOjbpVQ3cwbkp1Y
 <br>
 Manual de Usuario (Español) --> https://mega.nz/#!MBUinCrZ!KdU2vm7sKLUCU5VJEOylB_oS4p5oBx4Bp8YaVs9LwPg
@@ -23,6 +21,10 @@ Manual de Usuario (Español) --> https://mega.nz/#!MBUinCrZ!KdU2vm7sKLUCU5VJEOyl
 Manuel de l'utilisateur (Français) -> https://mega.nz/#!RUMwUIzY!CLCBA2cKu26WgSuXBzVYHo1fIUIwoalYrsxFupo70sU
 <br>
 Manuale dell'utente (italiano) --> https://mega.nz/#!oEd2CIRK!XLVUk5t38RRwe-FnYdY5VA9czS3Oj7cSIqtm4_Nr2Nc
+<br><br>
+<b>NOTICE:</b> The user manuals are outdated, with respect to the current software version. There are many new features, not yet included in the manual, as soon as possible I will update them.
+
+
 <br><br>
 <b>Youtube videos.</b>
 <br>
