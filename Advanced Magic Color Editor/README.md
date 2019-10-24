@@ -23,8 +23,6 @@ Manuel de l'utilisateur (Français) -> https://mega.nz/#!RUMwUIzY!CLCBA2cKu26WgS
 Manuale dell'utente (italiano) --> https://mega.nz/#!oEd2CIRK!XLVUk5t38RRwe-FnYdY5VA9czS3Oj7cSIqtm4_Nr2Nc
 <br><br>
 <b>NOTICE:</b> The user manuals are outdated, with respect to the current software version. There are many new features, not yet included in the manual, as soon as possible I will update them.
-
-
 <br><br>
 <b>Youtube videos.</b>
 <br>
