@@ -14,7 +14,7 @@ MacOS 32/64 bit -----> https://mega.nz/#!Zc9RlKBa!QWW06YtEKUegqk33xUFtynS3RLN5o2
 
 Dumps of 17 games for TEST --> https://mega.nz/#!NBsQ2QpS!PRI2mRtz33fv_A6pmsyUaHHFqsh2h6mEvhsQGmUmlBE
 <br><br>
-<b>NOTICE:</b> The user manuals are outdated, with respect to the current software version. There are many new features, not yet included in the manual, as soon as possible I will update the manuals.
+<b>NOTICE:</b> The user manuals are outdated, with respect to the current software version. There are many new features, not yet included in the manual, as soon as possible I will update them.
 <br><br>
 User Manual (English) --> https://mega.nz/#!hNUWnSaQ!BguqLraqUOeeqFtBDydcdau6XKLznOjbpVQ3cwbkp1Y
 <br>
