@@ -12,7 +12,7 @@ Any question, suggestion or bug, contact pinballsp@gmail.com, Skype pinballsp, W
 
 <br>
 <b>SLEIC-INDER</b>
-<ul><li>Added SLEIC and INDER spanish manufacturers. 100% tested. Automatic detection: the user does not need to configure the pinball manufacturer, the firmware detects it automatically. Automatic synchronization, avoids the loss of horizontal synchronism (lateral displacements of the image). For each of these manufacturers there is a different firmware file, unzip and update with the binary dmdmk66.bin</Li></ul>
+<ul><li>Added SLEIC and INDER spanish manufacturers. 100% tested. Automatic detection: the user does not need to configure the pinball manufacturer, the firmware detects it automatically. Automatic synchronization, avoids the loss of horizontal synchronism (lateral displacements of the image). For each one of these manufacturers there is a different firmware file, unzip and update with the binary dmdmk66.bin</Li></ul>
 
 <b>v1.84 Final version Firmware, new features</b>
 <ul><li>Added SPIKE pinball. 100% tested. Automatic detection: the user does not need to configure the pinball manufacturer, the firmware detects it automatically. Automatic synchronization, avoids the loss of horizontal synchronism (lateral displacements of the image).</Li></ul>
