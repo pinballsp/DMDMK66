@@ -33,6 +33,7 @@ Hardware and firmware developer, Luis Hernández Salvador (pinballsp@gmail.com)
 <li>All Capcom pinball</li>
 <li>All Stern Spike pinball</li>
 <li>All INDER (Bushido)</li>  
+<li>All SLEIC (Bike Race, Io Moon, Sleic PInball)</li> 
   <br>
 <li>All Gottlieb pinball (Beta version, yet need fix some bugs)</li>
 </ul>
