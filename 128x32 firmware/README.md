@@ -1,13 +1,19 @@
 
 Current stable firmware version v1.83 for DMDMK66 128x32.<br>
 Current Final version, v1.84b, Add support to SPIKE.
+Added SLEIC and INDER spanish manufacturers with specific firmware files.
 
 Any question, suggestion or bug, contact pinballsp@gmail.com, Skype pinballsp, Whatsapp +34693344445, Facebook https://www.facebook.com/Pinballsp
 
 <b>Files:</b> dmdmk66.bin ---------> v1.83 (Date 20-12-2017) <br>
 <b>Files:</b> dmdmk66_v1.84b.rar --> v1.84 Final (Date 20-4-2019) <br>
+<b>Files:</b> DMDMK66_INDER.rar ---> v1.84 (Date 20-11-2019) <br>
+<b>Files:</b> DMDMK66_SLEIC.rar ---> v1.84 (Date 20-11-2019) <br>
 
 <br>
+<b>SLEIC-INDER</b>
+<ul><li>Added SLEIC and INDER spanish manufacturers. 100% tested. Automatic detection: the user does not need to configure the pinball manufacturer, the firmware detects it automatically. Automatic synchronization, avoids the loss of horizontal synchronism (lateral displacements of the image). For each of these manufacturers there is a different firmware file, unzip and update with the binary dmdmk66.bin</Li></ul>
+
 <b>v1.84 Final version Firmware, new features</b>
 <ul><li>Added SPIKE pinball. 100% tested. Automatic detection: the user does not need to configure the pinball manufacturer, the firmware detects it automatically. Automatic synchronization, avoids the loss of horizontal synchronism (lateral displacements of the image).</Li></ul>
 <b>v1.84 BETA Firmware, new features</b>
